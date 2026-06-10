@@ -1,0 +1,1 @@
+-m"Test1.map" -i"C:/ti/mspm0_sdk_2_01_00_03/source" -i"C:/Users/Whisp/OneDrive/Develop/MSPM0/Test1" -i"C:/Users/Whisp/OneDrive/Develop/MSPM0/Test1/Debug/syscfg" -i"C:/ti/ccstheia141/ccs/tools/compiler/ti-cgt-armllvm_3.2.2.LTS/lib" --diag_wrap=off --display_error_number --warn_sections --xml_link_info="Test1_linkInfo.xml" --rom_model 
